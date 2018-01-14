@@ -1,1 +1,4 @@
-var playlist = {};
+var playlist = {
+  artistNames: "song itles"
+};
+
